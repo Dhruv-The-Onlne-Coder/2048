@@ -22,4 +22,4 @@ This is a simple implementation of the popular 2048 game using Python and the tk
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/2048-game.git
+   git clone https://github.com/Dhruv-The-Onlne-Coder/2048.git
